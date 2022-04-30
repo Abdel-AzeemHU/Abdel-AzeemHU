@@ -54,7 +54,14 @@ Courses
 - Certified Ethical Hacker (CEH). 
 - Security Diploma at IT Gate Academy. 
 
+<h4> I'm a Senior Testing engineer Certified in ...</h4>
 
+<p >
+  <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+  <br><img src="https://img.shields.io/badge/ISTQB-Foundation%20Extension%20Agile-blue?style=for-the-badge&labelColor=red&logo-ISTQB" />
+</br>
+  <img 
+</p>
 
  ### Technologies & Tools 👨🏻‍💻
 
