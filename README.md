@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 ">Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Abdelazeem Hussein 💻</h1> 
+<h1 ">Hi there 👋🏻 , I'm Abdelazeem Hussein 💻</h1> 
 
 
 Experienced Software Test Engineer with 8+ years of multinational experience in information technology with a demonstrated history of working in the Food delivery, Medical industry, and GPS Tracking with other projects. Skilled in Bug Tracking, Mobile testing, Manual testing, Test automation, Agile Methodologies.
